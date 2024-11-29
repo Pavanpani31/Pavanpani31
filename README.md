@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🌱 I’m currently learning Data analytic and Data Science<br><br>    👨‍💻 I’m completed my post graduate in MCA 2024<br><br>    📑 Check out my resume here - My Resume<br><br>    💻 All of my projects are available on GitHub<br><br>    💬 Ask me about Python Programming, Excel, Power BI, SQL, Tableau,  <br><br>    📫 Reach out to me at pavanrajendra31@gmail.com<br>
+<br><br>    🌱 I’m currently learning Data analytic and Data Science<br><br>   <br><br>    💻 All of my projects are available on GitHub<br><br>    💬 Ask me about Python Programming, Excel, Power BI, SQL, Tableau,  <br><br>    📫 Reach out to me at pavanrajendra31@gmail.com<br>
 
 
 ## 🌐 Socials:
